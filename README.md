@@ -1,1 +1,1 @@
-# Fully-Connected-Neural-Network-MNIST-Classification
+# Fully-Connected-Neural-Network
